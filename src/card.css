@@ -1,0 +1,35 @@
+.card {
+    color: black;
+    display: flex;
+    width: 200px;
+    /* height: 70px; */
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.task-detail {
+    width: 90%;
+}
+
+.task-title {
+    font-size: 8px;
+    width: 80%;
+}
+
+.flex-wrapper {
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+    margin: 0px;
+    align-items: center;
+}
+
+.tag-list {
+    width: 80%;
+}
+
+p {
+    font-size: 8px;
+}

@@ -1,0 +1,52 @@
+.list-button {
+    padding: 0px;
+    margin: 0px;
+    width: 50%;
+}
+
+button {
+    background-color: aliceblue;
+    color: grey;
+    border: none;
+    cursor: pointer;
+}
+
+span {
+    font-size: 10px;
+}
+
+.list-name {
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0px 5px;
+    text-align: center;
+}
+
+.card-list-wrapper {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cardlist-wrapper {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    margin: 5px;
+}
+
+.list-header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-heading {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    min-width: 50%;
+}

@@ -1,0 +1,21 @@
+.user-image {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    right: 0;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.status {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    border: 2px solid white;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+}
