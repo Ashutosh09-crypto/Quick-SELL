@@ -92,7 +92,7 @@ function App() {
         </label>
 
         <label>
-          <span>Ordering</span>
+          Ordering
           <select onChange={handleOrderingChange} defaultValue={ordering}>
             <option value="title">Title</option>
             <option value="priority">Priority</option>
